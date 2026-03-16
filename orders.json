@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "order_id": "c1c085e8",
+        "customer": "Chase ",
+        "item": "Espresso",
+        "quantity": 1,
+        "total": 2.5,
+        "status": "Placed"
+    }
+]
